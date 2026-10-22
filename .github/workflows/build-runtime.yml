@@ -25,9 +25,9 @@ jobs:
     strategy:
         matrix:
           php:
-            - 8.2
-            - 8.3
-            - 8.4
+            # - 8.2
+            # - 8.3
+            #- 8.4
             - 8.5
           image_version:
             - runtime
@@ -54,9 +54,9 @@ jobs:
     strategy:
       matrix:
         php:
-          - 8.2
-          - 8.3
-          - 8.4
+          #- 8.2
+          #- 8.3
+          #- 8.4
           - 8.5
         image_version:
           - runtime
