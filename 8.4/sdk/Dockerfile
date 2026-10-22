@@ -1,4 +1,4 @@
-FROM php:8.4.3-fpm-bookworm
+FROM php:8.4.27-fpm-bookworm
 
 # Install NodeJS and NPM
 RUN curl -sSL https://deb.nodesource.com/setup_20.x | bash \

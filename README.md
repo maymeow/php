@@ -1,3 +1,9 @@
+> [!IMPORTANT]  
+> PHP 8.3, 8.4 and 8.5 was updated to latest recomended version fixing two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619). Oficial post: https://www.php.net/archive/2026.php#2026-10-21-5
+
+> [!NOTE]  
+> PHP 8.2 is no longer buidling for new versions
+
 # PHP Docker for application development
 
 Docker images that can be used for applicaiton development/ci-cd and for production. These images are based on official [PHP images](https://hub.docker.com/_/php)

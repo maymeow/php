@@ -1,4 +1,4 @@
-FROM php:8.4.3-fpm-bookworm
+FROM php:8.4.27-fpm-bookworm
 
 # Install Libraries
 RUN apt-get update \
